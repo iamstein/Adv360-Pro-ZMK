@@ -1,5 +1,7 @@
 # ADV360-PRO-ZMK
 
+[User Manual for Advantage360-ZMK](https://kinesis-ergo.com/wp-content/uploads/Advantage360-ZMK-KB360-PRO-Users-Manual-v3-10-23.pdf) on page 16 (section 6) explains how to use with GitHub.
+
 ## To build Firmware in GitHub Actions
 
 ### Setup
